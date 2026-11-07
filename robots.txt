@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mmholdings.github.io/cuvayo-website/sitemap.xml
